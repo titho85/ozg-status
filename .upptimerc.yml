@@ -16,6 +16,8 @@ sites:
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
   - name: Hannover.de
     url: https://www.hannover.de
+  - name: Notification Test
+    url: https://serviceportal.hannover-stadt.de:8443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
