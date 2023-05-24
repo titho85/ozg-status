@@ -6,8 +6,14 @@ sites:
   - name: Service-Portal Hannover
     url: https://serviceportal.hannover-stadt.de
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
+  - name: FormularService Hannover
+    url: https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index
+  - name: Terminbuchung Bürgerämter Hannover
+    url: https://termin.hannover-stadt.de/buergeramt
   - name: Hannover.de
     url: https://www.hannover.de
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
