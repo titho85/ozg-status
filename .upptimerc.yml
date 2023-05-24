@@ -1,6 +1,8 @@
 # Change these first
 owner: titho85 # Your GitHub organization or username, where this repository lives
 repo: serviceportal-hannover-status # The name of this repository
+assignees:
+  - titho85
 
 sites:
   - name: Service-Portal Hannover
