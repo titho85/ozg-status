@@ -5,6 +5,7 @@ repo: serviceportal-hannover-status # The name of this repository
 sites:
   - name: Service-Portal Hannover
     url: https://serviceportal.hannover-stadt.de
+    icon: https://serviceportal.hannover-stadt.de/favicon.ico
   - name: Hannover.de
     url: https://www.hannover.de
 
