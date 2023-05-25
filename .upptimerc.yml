@@ -8,9 +8,9 @@ sites:
   - name: Service-Portal Hannover
     url: https://serviceportal.hannover-stadt.de
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
-  #- name: Notification Test Hannover
-  #  url: https://serviceportal.hannover-stadt.de:8443
-  #  icon: https://serviceportal.hannover-stadt.de/favicon.ico
+  - name: Notification Test Hannover
+    url: https://serviceportal.hannover-stadt.de:8443
+    icon: https://serviceportal.hannover-stadt.de/favicon.ico
   - name: FormularService Hannover
     url: https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
