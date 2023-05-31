@@ -26,9 +26,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: serviceportal.hannover-stadt.de
+  cname: serviceportal.hannover-stadt.de/status
   #baseUrl: /serviceportal-hannover-status
-  baseUrl: /status
+  #baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/titho85/serviceportal-hannover-status/master/static/img/logo.png
   name: OZG-Status der Landeshauptstadt Hannover
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
