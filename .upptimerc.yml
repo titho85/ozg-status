@@ -31,7 +31,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: serviceportal.hannover-stadt.de
   #baseUrl: /serviceportal-hannover-status
-  baseUrl: serviceportal.hannover-stadt.de/status
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/titho85/serviceportal-hannover-status/master/static/img/logo.png
   name: OZG-Status der Landeshauptstadt Hannover
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -50,7 +50,7 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
 
 i18n:
-  url: "https://serviceportal.hannover-stadt.de/status"
+  url: "URL"
   status: "Status"
   history: "History"
   up: "🟩 Up"
