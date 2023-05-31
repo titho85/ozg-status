@@ -53,7 +53,6 @@ i18n:
   url: "https://serviceportal.hannover-stadt.de/status"
   status: "Status"
   history: "History"
-  responseTime: "Response Time"
   uptime: "Uptime"
   up: "🟩 Up"
   degraded: "🟨 Degraded"
