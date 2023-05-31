@@ -20,6 +20,9 @@ sites:
   - name: Terminbuchung Fahrerlaubnisbehörde Hannover
     url: https://termin.hannover-stadt.de/fahrerlaubnis
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
+  - name: Wahlergebnisse Hannover
+    url: https://wahlergebnis.hannover-stadt.de/03241001/index.html
+    icon: https://serviceportal.hannover-stadt.de/favicon.ico
   - name: Hannover.de
     url: https://www.hannover.de
 
