@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1996,
-    "timeDay": 1085,
-    "timeWeek": 1996,
-    "timeMonth": 1996,
-    "timeYear": 1996,
+    "time": 1968,
+    "timeDay": 1326,
+    "timeWeek": 2107,
+    "timeMonth": 1968,
+    "timeYear": 1968,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2384,
+    "time": 2329,
     "timeDay": 8302,
-    "timeWeek": 2384,
-    "timeMonth": 2384,
-    "timeYear": 2384,
+    "timeWeek": 2329,
+    "timeMonth": 2329,
+    "timeYear": 2329,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4476,
-    "timeDay": 4565,
-    "timeWeek": 4476,
-    "timeMonth": 4476,
-    "timeYear": 4476,
+    "time": 4478,
+    "timeDay": 4500,
+    "timeWeek": 4478,
+    "timeMonth": 4478,
+    "timeYear": 4478,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-kfz-zulassung-hannover",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 761,
-    "timeDay": 883,
-    "timeWeek": 761,
-    "timeMonth": 761,
-    "timeYear": 761,
-    "dailyMinutesDown": {
-      "2023-05-28": 19
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 763,
+    "timeDay": 799,
+    "timeWeek": 763,
+    "timeMonth": 763,
+    "timeYear": 763,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Terminbuchung Fahrerlaubnisbehörde Hannover",
@@ -79,19 +77,17 @@
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-fahrerlaubnisbehoerde-hannover",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 858,
-    "timeDay": 867,
+    "timeDay": 854,
     "timeWeek": 858,
     "timeMonth": 858,
     "timeYear": 858,
-    "dailyMinutesDown": {
-      "2023-05-28": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hannover.de",
@@ -104,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1183,
-    "timeDay": 1302,
-    "timeWeek": 1183,
-    "timeMonth": 1183,
-    "timeYear": 1183,
+    "time": 1188,
+    "timeDay": 1271,
+    "timeWeek": 1173,
+    "timeMonth": 1188,
+    "timeYear": 1188,
     "dailyMinutesDown": {}
   }
 ]
