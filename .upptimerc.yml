@@ -44,7 +44,5 @@ status-website:
     - name: "robots"
       content: "noindex"
 
-path: https://servicepprtal.hannover-stadt.de/ozg-status
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
