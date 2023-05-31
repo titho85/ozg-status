@@ -29,9 +29,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: serviceportal.hannover-stadt.de/status
+  #cname: serviceportal.hannover-stadt.de
   #baseUrl: /serviceportal-hannover-status
-  #baseUrl: /status
+  baseUrl: serviceportal.hannover-stadt.de/status
   logoUrl: https://raw.githubusercontent.com/titho85/serviceportal-hannover-status/master/static/img/logo.png
   name: OZG-Status der Landeshauptstadt Hannover
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -48,6 +48,34 @@ status-website:
     - name: "robots"
       content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
+
+i18n:
+  url: "https://serviceportal.hannover-stadt.de/status"
+  status: "Status"
+  history: "History"
+  responseTime: "Response Time"
+  uptime: "Uptime"
+  up: "🟩 Up"
+  degraded: "🟨 Degraded"
+  down: "🟥 Down"
+  responseTimeGraphAlt: "Response time graph"
+  ms: "ms"
+  responseTime: "Response time"
+  responseTimeDay: "24-hour response time"
+  responseTimeWeek: "7-day response time"
+  responseTimeMonth: "30-day response time"
+  responseTimeYear: "1-year response time"
+  uptime: "All-time uptime"
+  uptimeDay: "24-hour uptime"
+  uptimeWeek: "7-day uptime"
+  uptimeMonth: "30-day uptime"
+  uptimeYear: "1-year uptime"
+  liveStatus: "Live Status"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 All systems operational"
+  degradedPerformance: "🟨 Degraded performance"
+  completeOutage: "🟥 Complete outage"
+  partialOutage: "🟧 Partial outage"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
