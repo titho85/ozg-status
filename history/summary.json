@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1541,
     "timeDay": 1286,
-    "timeWeek": 1227,
+    "timeWeek": 1011,
     "timeMonth": 1541,
     "timeYear": 1541,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 4589,
     "timeDay": 5684,
-    "timeWeek": 4818,
+    "timeWeek": 4622,
     "timeMonth": 4589,
     "timeYear": 4589,
     "dailyMinutesDown": {}
@@ -94,17 +94,19 @@
     "url": "https://www.hannover.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hannover.de.ico",
     "slug": "hannover-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1224,
-    "timeDay": 1452,
-    "timeWeek": 1240,
-    "timeMonth": 1224,
-    "timeYear": 1224,
-    "dailyMinutesDown": {}
+    "time": 1210,
+    "timeDay": 1058,
+    "timeWeek": 1217,
+    "timeMonth": 1210,
+    "timeYear": 1210,
+    "dailyMinutesDown": {
+      "2023-06-03": 0
+    }
   }
 ]
