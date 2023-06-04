@@ -58,10 +58,10 @@
     "url": "https://termin.hannover-stadt.de/kfz",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-kfz-zulassung-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 827,
@@ -69,16 +69,18 @@
     "timeWeek": 869,
     "timeMonth": 827,
     "timeYear": 827,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-04": 1
+    }
   },
   {
     "name": "Terminbuchung Fahrerlaubnisbehörde Hannover",
     "url": "https://termin.hannover-stadt.de/fahrerlaubnis",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-fahrerlaubnisbehoerde-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +89,9 @@
     "timeWeek": 857,
     "timeMonth": 845,
     "timeYear": 845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-04": 0
+    }
   },
   {
     "name": "Hannover.de",
@@ -95,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hannover.de.ico",
     "slug": "hannover-de",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "84.80%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
+    "uptime": "97.96%",
+    "uptimeDay": "77.20%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "97.96%",
     "time": 1200,
     "timeDay": 724,
     "timeWeek": 1206,
     "timeMonth": 1200,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-06-04": 42,
+      "2023-06-04": 152,
       "2023-06-03": 177
     }
   }
