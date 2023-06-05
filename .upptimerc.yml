@@ -48,7 +48,7 @@ i18n:
   activeIncidents: Aktive Störungen
   allSystemsOperational: Alle Systeme sind verfügbar
   incidentReport: "Störung #$NUMBER Übersicht →"
-  activeIncidentSummary: Geöffnet am $DATE mit $POSTS Posts
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS Beiträgen
   incidentTitle: Störung $NUMBER Details
   incidentDetails: Störungsdetails
   incidentFixed: Gelöst
@@ -56,13 +56,13 @@ i18n:
   incidentOpenedAt: Geöffnet am
   incidentClosedAt: Geschlossen am
   incidentViewOnGitHub: Ansehen und abbonieren auf GitHub
-  incidentCommentSummary: Gepostet am $DATE von $AUTHOR
+  incidentCommentSummary: Geschrieben am $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Störungen
   pastIncidents: Vergangene Störungen
-  pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS Posts
+  pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS Beiträgen
   liveStatus: Live Status
-  overallUptime: "Gesamte Uptime: $UPTIME"
-  overallUptimeTitle: Gesamte Uptime
+  overallUptime: "Gesamte Verfügbarkeit: $UPTIME"
+  overallUptimeTitle: Gesamte Verfügbarkeit
   averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
   averageResponseTimeTitle: Durchschnittliche Reaktionszeit
   sevelDayResponseTime: 7-Tages-Reaktionszeit
