@@ -44,5 +44,67 @@ status-website:
     - name: "robots"
       content: "noindex"
 
+i18n:
+  activeIncidents: Aktive Störungen
+  allSystemsOperational: Alle Systeme sind verfügbar
+  incidentReport: "Störung #$NUMBER Übersicht →"
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS Posts
+  incidentTitle: Störung $NUMBER Details
+  incidentDetails: Störungsdetails
+  incidentFixed: Gelöst
+  incidentOngoing: Fortlaufend
+  incidentOpenedAt: Geöffnet am
+  incidentClosedAt: Geschlossen am
+  incidentViewOnGitHub: Ansehen und abbonieren auf GitHub
+  incidentCommentSummary: Gepostet am $DATE von $AUTHOR
+  incidentBack: ← Zurück zu allen Störungen
+  pastIncidents: Vergangene Störungen
+  pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS Posts
+  liveStatus: Live Status
+  overallUptime: "Gesamte Uptime: $UPTIME"
+  overallUptimeTitle: Gesamte Uptime
+  averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Reaktionszeit
+  sevelDayResponseTime: 7-Tages-Reaktionszeit
+  responseTimeMs: Reaktionszeit (ms)
+  up: Up
+  down: Down
+  degraded: Eingeschränkt
+  ms: ms
+  loading: Lädt
+  navGitHub: GitHub
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: Es ist ein Fehler aufgetreten
+  errorIntro: Während des Aufrufs der neusten Statusdetails ist ein Fehler aufgetreten.
+  errorText: Sie können es in ein paar Minuten noch einmal versuchen.
+  errorHome: Zur Webseite
+  pastScheduledMaintenance: Vergangene geplante Wartungen
+  scheduledMaintenance: Geplante Wartungen
+  scheduledMaintenanceSummaryStarted: Begonnen am $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Beginnt am $DATE für $DURATION Minuten
+  startedAt: Begonnen am
+  startsAt: Beginnt am
+  duration: Dauer
+  durationMin: $DURATION Minuten
+  incidentCompleted: Erledigt
+  incidentScheduled: Geplant
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: alle
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
