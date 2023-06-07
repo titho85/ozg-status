@@ -20,8 +20,6 @@ sites:
   - name: Terminbuchung Fahrerlaubnisbehörde Hannover
     url: https://termin.hannover-stadt.de/fahrerlaubnis
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
-  - name: Hannover.de
-    url: https://www.hannover.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
