@@ -1,4 +1,4 @@
-# [📈 Live Status](https://serviceportal.hannover-stadt.de/ozg-status): <!--live status--> **Alle Systeme sind verfügbar**
+# [📈 Live Status](https://serviceportal.hannover-stadt.de/status): <!--live status--> **Alle Systeme sind verfügbar**
 
 This repository contains the open-source uptime monitor and status page for [titho85](https://titho85.github.io/serviceportal-hannover-status), powered by [Upptime](https://github.com/upptime/upptime).
 
