@@ -45,9 +45,9 @@ status-website:
 i18n:
   activeIncidents: Aktive Störungen
   allSystemsOperational: Alle Systeme sind verfügbar
-  incidentReport: "Störung #$NUMBER Übersicht →"
+  incidentReport: "Ticket #$NUMBER Übersicht →"
   activeIncidentSummary: Geöffnet am $DATE mit $POSTS Beiträgen
-  incidentTitle: Störung $NUMBER Details
+  incidentTitle: Ticket $NUMBER Details
   incidentDetails: Störungsdetails
   incidentFixed: Gelöst
   incidentOngoing: Fortlaufend
@@ -55,7 +55,7 @@ i18n:
   incidentClosedAt: Geschlossen am
   incidentViewOnGitHub: Ansehen und abbonieren auf GitHub
   incidentCommentSummary: Geschrieben am $DATE von $AUTHOR
-  incidentBack: ← Zurück zu allen Störungen
+  incidentBack: ← Zurück zu allen Tickets
   pastIncidents: Vergangene Störungen
   pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS Beiträgen
   liveStatus: Live Status
