@@ -22,18 +22,20 @@
     "url": "https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "formular-service-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2247,
-    "timeDay": 1143,
-    "timeWeek": 3384,
-    "timeMonth": 2247,
-    "timeYear": 2247,
-    "dailyMinutesDown": {}
+    "time": 2231,
+    "timeDay": 1132,
+    "timeWeek": 3222,
+    "timeMonth": 2231,
+    "timeYear": 2231,
+    "dailyMinutesDown": {
+      "2023-06-15": 0
+    }
   },
   {
     "name": "Terminbuchung Bürgerämter Hannover",
