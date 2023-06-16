@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1493,
-    "timeDay": 3633,
-    "timeWeek": 1863,
-    "timeMonth": 1493,
-    "timeYear": 1493,
+    "time": 1486,
+    "timeDay": 1030,
+    "timeWeek": 2032,
+    "timeMonth": 1486,
+    "timeYear": 1486,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "formular-service-hannover",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 2241,
-    "timeDay": 1588,
-    "timeWeek": 3204,
-    "timeMonth": 2241,
-    "timeYear": 2241,
-    "dailyMinutesDown": {
-      "2023-06-15": 24
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2229,
+    "timeDay": 1817,
+    "timeWeek": 3547,
+    "timeMonth": 2229,
+    "timeYear": 2229,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Terminbuchung Bürgerämter Hannover",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5285,
-    "timeDay": 8711,
-    "timeWeek": 6598,
-    "timeMonth": 5285,
-    "timeYear": 5285,
+    "time": 5303,
+    "timeDay": 6521,
+    "timeWeek": 7056,
+    "timeMonth": 5303,
+    "timeYear": 5303,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 3136,
-    "timeWeek": 1784,
-    "timeMonth": 1067,
-    "timeYear": 1067,
+    "time": 1069,
+    "timeDay": 1199,
+    "timeWeek": 1978,
+    "timeMonth": 1069,
+    "timeYear": 1069,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 785,
-    "timeWeek": 1149,
-    "timeMonth": 981,
-    "timeYear": 981,
+    "time": 988,
+    "timeDay": 1459,
+    "timeWeek": 1257,
+    "timeMonth": 988,
+    "timeYear": 988,
     "dailyMinutesDown": {}
   }
 ]
