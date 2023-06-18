@@ -8,6 +8,7 @@ sites:
   - name: Service-Portal Hannover
     url: https://serviceportal.hannover-stadt.de
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
+    __dangerous__body_down_if_text_missing: "Service-Portal der Landeshauptstadt Hannover"
   - name: FormularService Hannover
     url: https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
