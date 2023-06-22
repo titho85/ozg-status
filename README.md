@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://titho85.github.io/serviceportal-hannover-status)
+[**Visit our status website →**](https://serviceportal.hannover-stadt.de/status)
 
 ## 📄 License
 
