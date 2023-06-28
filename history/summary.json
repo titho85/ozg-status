@@ -13,7 +13,7 @@
     "time": 1422,
     "timeDay": 915,
     "timeWeek": 1388,
-    "timeMonth": 1199,
+    "timeMonth": 1206,
     "timeYear": 1422,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2186,
-    "timeDay": 3772,
+    "timeDay": 880,
     "timeWeek": 2310,
-    "timeMonth": 2334,
+    "timeMonth": 2351,
     "timeYear": 2186,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 5646,
     "timeDay": 4392,
     "timeWeek": 6691,
-    "timeMonth": 5897,
+    "timeMonth": 5930,
     "timeYear": 5646,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1092,
     "timeDay": 722,
     "timeWeek": 914,
-    "timeMonth": 1151,
+    "timeMonth": 1159,
     "timeYear": 1092,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1004,
     "timeDay": 685,
     "timeWeek": 938,
-    "timeMonth": 1034,
+    "timeMonth": 1033,
     "timeYear": 1004,
     "dailyMinutesDown": {}
   }
