@@ -4,9 +4,9 @@
     "url": "https://serviceportal.hannover-stadt.de",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "service-portal-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1021,
     "timeMonth": 1512,
     "timeYear": 1430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "FormularService Hannover",
     "url": "https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "formular-service-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 2150,
     "timeMonth": 2561,
     "timeYear": 2206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "Terminbuchung Bürgerämter Hannover",
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 7600,
     "timeMonth": 7000,
     "timeYear": 5967,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "Terminbuchung KFZ-Zulassung Hannover",
     "url": "https://termin.hannover-stadt.de/kfz",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-kfz-zulassung-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 1847,
     "timeMonth": 1720,
     "timeYear": 1286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "Terminbuchung Fahrerlaubnisbehörde Hannover",
     "url": "https://termin.hannover-stadt.de/fahrerlaubnis",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-fahrerlaubnisbehoerde-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 963,
     "timeMonth": 998,
     "timeYear": 1001,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   }
 ]
