@@ -6,18 +6,16 @@
     "slug": "service-portal-hannover",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1424,
-    "timeDay": 1080,
-    "timeWeek": 1003,
-    "timeMonth": 1496,
-    "timeYear": 1424,
-    "dailyMinutesDown": {
-      "2023-07-12": 3
-    }
+    "time": 1417,
+    "timeDay": 1071,
+    "timeWeek": 971,
+    "timeMonth": 1484,
+    "timeYear": 1417,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FormularService Hannover",
@@ -26,18 +24,16 @@
     "slug": "formular-service-hannover",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2195,
-    "timeDay": 991,
-    "timeWeek": 2044,
-    "timeMonth": 2531,
-    "timeYear": 2195,
-    "dailyMinutesDown": {
-      "2023-07-12": 3
-    }
+    "time": 2186,
+    "timeDay": 1039,
+    "timeWeek": 2034,
+    "timeMonth": 2525,
+    "timeYear": 2186,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Terminbuchung Bürgerämter Hannover",
@@ -46,18 +42,16 @@
     "slug": "terminbuchung-buergeraemter-hannover",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5957,
-    "timeDay": 7655,
-    "timeWeek": 7443,
-    "timeMonth": 6964,
-    "timeYear": 5957,
-    "dailyMinutesDown": {
-      "2023-07-12": 3
-    }
+    "time": 5954,
+    "timeDay": 7853,
+    "timeWeek": 7322,
+    "timeMonth": 6969,
+    "timeYear": 5954,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Terminbuchung KFZ-Zulassung Hannover",
@@ -66,18 +60,16 @@
     "slug": "terminbuchung-kfz-zulassung-hannover",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1288,
-    "timeDay": 3124,
-    "timeWeek": 1827,
-    "timeMonth": 1717,
-    "timeYear": 1288,
-    "dailyMinutesDown": {
-      "2023-07-12": 3
-    }
+    "time": 1286,
+    "timeDay": 3187,
+    "timeWeek": 1832,
+    "timeMonth": 1708,
+    "timeYear": 1286,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Terminbuchung Fahrerlaubnisbehörde Hannover",
@@ -86,17 +78,15 @@
     "slug": "terminbuchung-fahrerlaubnisbehoerde-hannover",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 848,
-    "timeWeek": 945,
-    "timeMonth": 993,
-    "timeYear": 998,
-    "dailyMinutesDown": {
-      "2023-07-12": 3
-    }
+    "time": 999,
+    "timeDay": 940,
+    "timeWeek": 959,
+    "timeMonth": 994,
+    "timeYear": 999,
+    "dailyMinutesDown": {}
   }
 ]
