@@ -40,19 +40,19 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5928,
-    "timeDay": 4767,
-    "timeWeek": 7028,
-    "timeMonth": 6887,
-    "timeYear": 5928,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 5944,
+    "timeDay": 5557,
+    "timeWeek": 7071,
+    "timeMonth": 6903,
+    "timeYear": 5944,
     "dailyMinutesDown": {
-      "2023-07-13": 1
+      "2023-07-13": 5
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://termin.hannover-stadt.de/kfz",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-kfz-zulassung-hannover",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1276,
-    "timeDay": 824,
-    "timeWeek": 1714,
-    "timeMonth": 1675,
-    "timeYear": 1276,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1275,
+    "timeDay": 889,
+    "timeWeek": 1683,
+    "timeMonth": 1666,
+    "timeYear": 1275,
     "dailyMinutesDown": {
-      "2023-07-13": 0
+      "2023-07-13": 4
     }
   },
   {
@@ -80,19 +80,17 @@
     "url": "https://termin.hannover-stadt.de/fahrerlaubnis",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-fahrerlaubnisbehoerde-hannover",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 988,
-    "timeDay": 692,
-    "timeWeek": 893,
-    "timeMonth": 971,
-    "timeYear": 988,
-    "dailyMinutesDown": {
-      "2023-07-13": 0
-    }
+    "time": 986,
+    "timeDay": 703,
+    "timeWeek": 885,
+    "timeMonth": 967,
+    "timeYear": 986,
+    "dailyMinutesDown": {}
   }
 ]
