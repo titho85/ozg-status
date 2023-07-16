@@ -40,19 +40,19 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 5902,
-    "timeDay": 3452,
-    "timeWeek": 6768,
-    "timeMonth": 6601,
-    "timeYear": 5902,
+    "time": 5903,
+    "timeDay": 4323,
+    "timeWeek": 6735,
+    "timeMonth": 6592,
+    "timeYear": 5903,
     "dailyMinutesDown": {
-      "2023-07-16": 0
+      "2023-07-16": 3
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://termin.hannover-stadt.de/kfz",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-kfz-zulassung-hannover",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1262,
-    "timeDay": 1046,
-    "timeWeek": 1739,
-    "timeMonth": 1482,
-    "timeYear": 1262,
+    "time": 1258,
+    "timeDay": 946,
+    "timeWeek": 1689,
+    "timeMonth": 1469,
+    "timeYear": 1258,
     "dailyMinutesDown": {
-      "2023-07-16": 0
+      "2023-07-16": 3
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://termin.hannover-stadt.de/fahrerlaubnis",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-fahrerlaubnisbehoerde-hannover",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 1074,
-    "timeWeek": 926,
-    "timeMonth": 986,
-    "timeYear": 987,
+    "time": 985,
+    "timeDay": 943,
+    "timeWeek": 913,
+    "timeMonth": 980,
+    "timeYear": 985,
     "dailyMinutesDown": {
-      "2023-07-16": 0
+      "2023-07-16": 3
     }
   }
 ]
