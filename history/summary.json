@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 1383,
-    "timeDay": 807,
-    "timeWeek": 943,
-    "timeMonth": 1277,
+    "timeDay": 1293,
+    "timeWeek": 906,
+    "timeMonth": 1284,
     "timeYear": 1383,
     "dailyMinutesDown": {
       "2023-07-16": 36
@@ -26,15 +26,15 @@
     "slug": "formular-service-hannover",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "97.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
-    "time": 2288,
-    "timeDay": 1466,
-    "timeWeek": 2899,
-    "timeMonth": 2540,
-    "timeYear": 2288,
+    "time": 2280,
+    "timeDay": 1210,
+    "timeWeek": 3223,
+    "timeMonth": 2538,
+    "timeYear": 2280,
     "dailyMinutesDown": {
       "2023-07-18": 30,
       "2023-07-16": 35
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 5921,
-    "timeDay": 6056,
-    "timeWeek": 6303,
-    "timeMonth": 6508,
-    "timeYear": 5921,
+    "time": 5913,
+    "timeDay": 4812,
+    "timeWeek": 5584,
+    "timeMonth": 6455,
+    "timeYear": 5913,
     "dailyMinutesDown": {
       "2023-07-16": 35
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 1246,
-    "timeDay": 1221,
-    "timeWeek": 1638,
-    "timeMonth": 1422,
-    "timeYear": 1246,
+    "time": 1243,
+    "timeDay": 814,
+    "timeWeek": 859,
+    "timeMonth": 1419,
+    "timeYear": 1243,
     "dailyMinutesDown": {
       "2023-07-16": 34
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 981,
-    "timeDay": 1198,
-    "timeWeek": 853,
-    "timeMonth": 941,
-    "timeYear": 981,
+    "time": 980,
+    "timeDay": 824,
+    "timeWeek": 820,
+    "timeMonth": 932,
+    "timeYear": 980,
     "dailyMinutesDown": {
       "2023-07-16": 34
     }
