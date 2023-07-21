@@ -10,11 +10,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 1383,
-    "timeDay": 1293,
-    "timeWeek": 906,
-    "timeMonth": 1289,
-    "timeYear": 1383,
+    "time": 1381,
+    "timeDay": 1250,
+    "timeWeek": 984,
+    "timeMonth": 1294,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2023-07-16": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
-    "time": 2280,
-    "timeDay": 1210,
-    "timeWeek": 1148,
+    "time": 2272,
+    "timeDay": 1207,
+    "timeWeek": 1171,
     "timeMonth": 2445,
-    "timeYear": 2280,
+    "timeYear": 2272,
     "dailyMinutesDown": {
       "2023-07-18": 30,
       "2023-07-16": 35
@@ -47,17 +47,16 @@
     "slug": "terminbuchung-buergeraemter-hannover",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 6033,
-    "timeDay": 13681,
-    "timeWeek": 6968,
-    "timeMonth": 6723,
-    "timeYear": 6033,
+    "time": 6138,
+    "timeDay": 21631,
+    "timeWeek": 8096,
+    "timeMonth": 6968,
+    "timeYear": 6138,
     "dailyMinutesDown": {
-      "2023-07-20": 2,
       "2023-07-16": 35
     }
   },
@@ -72,11 +71,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 1243,
-    "timeDay": 814,
-    "timeWeek": 886,
-    "timeMonth": 1419,
-    "timeYear": 1243,
+    "time": 1297,
+    "timeDay": 8169,
+    "timeWeek": 1623,
+    "timeMonth": 1547,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2023-07-16": 34
     }
@@ -92,11 +91,11 @@
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 980,
-    "timeDay": 824,
-    "timeWeek": 896,
-    "timeMonth": 932,
-    "timeYear": 980,
+    "time": 983,
+    "timeDay": 1377,
+    "timeWeek": 979,
+    "timeMonth": 941,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2023-07-16": 34
     }
