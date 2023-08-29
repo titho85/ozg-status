@@ -22,17 +22,17 @@
     "url": "https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "formular-service-hannover",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2309,
-    "timeDay": 1625,
-    "timeWeek": 1296,
-    "timeMonth": 2467,
-    "timeYear": 2309,
+    "time": 2369,
+    "timeDay": 5797,
+    "timeWeek": 2367,
+    "timeMonth": 2687,
+    "timeYear": 2369,
     "dailyMinutesDown": {
       "2023-07-18": 30
     }
