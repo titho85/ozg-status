@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1430,
     "timeDay": 963,
-    "timeWeek": 1013,
+    "timeWeek": 1030,
     "timeMonth": 1630,
     "timeYear": 1430,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "formular-service-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "99.98%",
     "time": 2357,
     "timeDay": 1042,
-    "timeWeek": 2483,
+    "timeWeek": 2621,
     "timeMonth": 2726,
     "timeYear": 2357,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 6216,
     "timeDay": 5436,
-    "timeWeek": 5757,
+    "timeWeek": 5708,
     "timeMonth": 6545,
     "timeYear": 6216,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 1377,
     "timeDay": 873,
-    "timeWeek": 839,
+    "timeWeek": 830,
     "timeMonth": 1718,
     "timeYear": 1377,
     "dailyMinutesDown": {}
