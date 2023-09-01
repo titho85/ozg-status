@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2506,
-    "timeDay": 7422,
+    "timeDay": 1077,
     "timeWeek": 4610,
-    "timeMonth": 3247,
+    "timeMonth": 2908,
     "timeYear": 2506,
     "dailyMinutesDown": {
       "2023-07-18": 30
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 6212,
     "timeDay": 5162,
-    "timeWeek": 5711,
+    "timeWeek": 5590,
     "timeMonth": 6527,
     "timeYear": 6212,
     "dailyMinutesDown": {}
@@ -60,7 +60,7 @@
     "url": "https://termin.hannover-stadt.de/kfz",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-kfz-zulassung-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
