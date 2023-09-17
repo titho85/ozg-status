@@ -1,7 +1,7 @@
 url: https://termin.hannover-stadt.de/buergeramt
-status: down
-code: 504
-responseTime: 16261
-lastUpdated: 2023-09-17T01:24:36.547Z
+status: up
+code: 200
+responseTime: 21840
+lastUpdated: 2023-09-17T01:27:36.970Z
 startTime: 2023-05-24T13:35:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
