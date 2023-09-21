@@ -6,18 +6,16 @@
     "slug": "service-portal-hannover",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1404,
-    "timeDay": 789,
-    "timeWeek": 1570,
-    "timeMonth": 1174,
-    "timeYear": 1404,
-    "dailyMinutesDown": {
-      "2023-09-20": 2
-    }
+    "time": 1401,
+    "timeDay": 818,
+    "timeWeek": 1731,
+    "timeMonth": 1167,
+    "timeYear": 1401,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FormularService Hannover",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2521,
-    "timeDay": 1411,
-    "timeWeek": 2765,
-    "timeMonth": 2955,
-    "timeYear": 2521,
+    "time": 2514,
+    "timeDay": 953,
+    "timeWeek": 1969,
+    "timeMonth": 2970,
+    "timeYear": 2514,
     "dailyMinutesDown": {
       "2023-07-18": 30
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6507,
-    "timeDay": 5840,
-    "timeWeek": 9404,
-    "timeMonth": 7059,
+    "timeDay": 6768,
+    "timeWeek": 8594,
+    "timeMonth": 6941,
     "timeYear": 6507,
     "dailyMinutesDown": {}
   },
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1467,
-    "timeDay": 867,
-    "timeWeek": 1639,
-    "timeMonth": 1630,
-    "timeYear": 1467,
+    "time": 1464,
+    "timeDay": 762,
+    "timeWeek": 945,
+    "timeMonth": 1633,
+    "timeYear": 1464,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1068,
-    "timeDay": 844,
-    "timeWeek": 1197,
-    "timeMonth": 1098,
-    "timeYear": 1068,
+    "time": 1067,
+    "timeDay": 799,
+    "timeWeek": 894,
+    "timeMonth": 1095,
+    "timeYear": 1067,
     "dailyMinutesDown": {}
   }
 ]
