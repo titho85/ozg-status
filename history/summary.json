@@ -4,36 +4,39 @@
     "url": "https://serviceportal.hannover-stadt.de",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "service-portal-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1395,
     "timeDay": 1215,
     "timeWeek": 1731,
-    "timeMonth": 1158,
+    "timeMonth": 1166,
     "timeYear": 1395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-24": 2
+    }
   },
   {
     "name": "FormularService Hannover",
     "url": "https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "formular-service-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2497,
     "timeDay": 1439,
     "timeWeek": 1957,
-    "timeMonth": 3019,
+    "timeMonth": 3056,
     "timeYear": 2497,
     "dailyMinutesDown": {
+      "2023-09-24": 2,
       "2023-07-18": 30
     }
   },
@@ -42,53 +45,59 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6500,
     "timeDay": 7061,
-    "timeWeek": 8806,
-    "timeMonth": 6918,
+    "timeWeek": 6245,
+    "timeMonth": 6988,
     "timeYear": 6500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-24": 1
+    }
   },
   {
     "name": "Terminbuchung KFZ-Zulassung Hannover",
     "url": "https://termin.hannover-stadt.de/kfz",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-kfz-zulassung-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1457,
     "timeDay": 935,
-    "timeWeek": 980,
-    "timeMonth": 1622,
+    "timeWeek": 898,
+    "timeMonth": 1635,
     "timeYear": 1457,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-24": 1
+    }
   },
   {
     "name": "Terminbuchung Fahrerlaubnisbehörde Hannover",
     "url": "https://termin.hannover-stadt.de/fahrerlaubnis",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-fahrerlaubnisbehoerde-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1063,
     "timeDay": 950,
-    "timeWeek": 898,
+    "timeWeek": 860,
     "timeMonth": 1083,
     "timeYear": 1063,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-24": 0
+    }
   }
 ]
