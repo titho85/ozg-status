@@ -47,19 +47,19 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 6502,
-    "timeDay": 7215,
-    "timeWeek": 6328,
-    "timeMonth": 7634,
-    "timeYear": 6502,
+    "time": 6568,
+    "timeDay": 13212,
+    "timeWeek": 8216,
+    "timeMonth": 7943,
+    "timeYear": 6568,
     "dailyMinutesDown": {
-      "2023-09-28": 2,
+      "2023-09-28": 14,
       "2023-09-24": 29
     }
   },
@@ -88,9 +88,9 @@
     "url": "https://termin.hannover-stadt.de/fahrerlaubnis",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-fahrerlaubnisbehoerde-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -100,6 +100,7 @@
     "timeMonth": 1034,
     "timeYear": 1060,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-09-24": 26
     }
   }
