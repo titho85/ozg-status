@@ -1,7 +1,7 @@
 url: https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index
-status: up
-code: 200
-responseTime: 1258
-lastUpdated: 2023-10-12T23:15:05.264Z
+status: down
+code: 502
+responseTime: 1662
+lastUpdated: 2023-10-13T01:00:19.950Z
 startTime: 2023-05-24T13:35:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
