@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1324,
     "timeDay": 796,
-    "timeWeek": 937,
+    "timeWeek": 959,
     "timeMonth": 971,
     "timeYear": 1324,
     "dailyMinutesDown": {}
@@ -45,7 +45,7 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
