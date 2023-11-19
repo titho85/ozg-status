@@ -1,7 +1,7 @@
 url: https://serviceportal.hannover-stadt.de
-status: down
-code: 503
-responseTime: 840
-lastUpdated: 2023-11-19T02:36:13.254Z
+status: up
+code: 200
+responseTime: 1300
+lastUpdated: 2023-11-19T04:33:37.995Z
 startTime: 2023-05-23T21:40:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
