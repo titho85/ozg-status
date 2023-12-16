@@ -4,18 +4,20 @@
     "url": "https://serviceportal.hannover-stadt.de",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "service-portal-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1283,
-    "timeDay": 885,
-    "timeWeek": 951,
-    "timeMonth": 940,
-    "timeYear": 1283,
-    "dailyMinutesDown": {}
+    "time": 1313,
+    "timeDay": 5844,
+    "timeWeek": 2045,
+    "timeMonth": 1200,
+    "timeYear": 1313,
+    "dailyMinutesDown": {
+      "2023-12-16": 0
+    }
   },
   {
     "name": "FormularService Hannover",
