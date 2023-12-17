@@ -1,7 +1,7 @@
 url: https://termin.hannover-stadt.de/kfz
-status: down
-code: 504
-responseTime: 15197
-lastUpdated: 2023-12-17T02:41:43.540Z
+status: up
+code: 200
+responseTime: 678
+lastUpdated: 2023-12-17T02:45:23.665Z
 startTime: 2023-05-24T21:42:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
