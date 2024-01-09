@@ -4,10 +4,10 @@
     "url": "https://serviceportal.hannover-stadt.de",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "service-portal-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1285,
@@ -15,7 +15,9 @@
     "timeWeek": 951,
     "timeMonth": 1224,
     "timeYear": 1285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-09": 1
+    }
   },
   {
     "name": "FormularService Hannover",
@@ -24,9 +26,9 @@
     "slug": "formular-service-hannover",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 2736,
     "timeDay": 3838,
@@ -34,7 +36,6 @@
     "timeMonth": 2653,
     "timeYear": 2736,
     "dailyMinutesDown": {
-      "2024-01-09": 9,
       "2023-12-21": 15,
       "2023-10-13": 27,
       "2023-10-11": 16,
