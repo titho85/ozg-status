@@ -13,11 +13,15 @@ sites:
     url: https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
   - name: Virtuelles Bauamt Hannover
-    #url: https://ebgv.hannover-stadt.de/intelliform/ui/cases/-/hannover-vba/index
-    url: ebgv.hannover-stadt.de
+    url: https://ebgv.hannover-stadt.de/intelliform
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
-    check: "tcp-ping"
-    port: 443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
+      - 403
+      - 404
   - name: Terminbuchung Bürgerämter Hannover
     url: https://termin.hannover-stadt.de/buergeramt
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
