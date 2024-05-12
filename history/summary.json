@@ -53,18 +53,20 @@
     "url": "https://ebgv.hannover-stadt.de/intelliform/sign-in?form=true",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "virtuelles-bauamt-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 639,
-    "timeWeek": 877,
-    "timeMonth": 819,
-    "timeYear": 842,
-    "dailyMinutesDown": {}
+    "time": 851,
+    "timeDay": 1252,
+    "timeWeek": 987,
+    "timeMonth": 852,
+    "timeYear": 851,
+    "dailyMinutesDown": {
+      "2024-05-12": 0
+    }
   },
   {
     "name": "Terminbuchung Bürgerämter Hannover",
