@@ -53,19 +53,19 @@
     "url": "https://ebgv.hannover-stadt.de/intelliform/sign-in?form=true",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "virtuelles-bauamt-hannover",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 1252,
-    "timeWeek": 987,
-    "timeMonth": 852,
-    "timeYear": 851,
+    "time": 849,
+    "timeDay": 1063,
+    "timeWeek": 957,
+    "timeMonth": 847,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2024-05-12": 0
+      "2024-05-12": 3
     }
   },
   {
