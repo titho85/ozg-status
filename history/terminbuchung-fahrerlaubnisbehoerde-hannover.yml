@@ -1,7 +1,7 @@
 url: https://termin.hannover-stadt.de/fahrerlaubnis
-status: down
-code: 503
-responseTime: 237
-lastUpdated: 2024-08-07T13:21:24.569Z
+status: up
+code: 200
+responseTime: 1638
+lastUpdated: 2024-08-07T13:51:27.099Z
 startTime: 2023-05-24T21:42:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
