@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1302,
-    "timeDay": 1343,
-    "timeWeek": 1203,
-    "timeMonth": 1988,
-    "timeYear": 1291,
+    "time": 1301,
+    "timeDay": 1111,
+    "timeWeek": 1143,
+    "timeMonth": 1982,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2024-06-19": 26,
       "2024-03-08": 15
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2229,
-    "timeDay": 2515,
-    "timeWeek": 1637,
-    "timeMonth": 1419,
-    "timeYear": 2090,
+    "time": 2228,
+    "timeDay": 750,
+    "timeWeek": 1569,
+    "timeMonth": 1393,
+    "timeYear": 2063,
     "dailyMinutesDown": {
       "2024-09-17": 18,
       "2024-09-05": 21,
@@ -51,16 +51,16 @@
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "virtuelles-bauamt-hannover",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
-    "time": 1012,
-    "timeDay": 1166,
-    "timeWeek": 1034,
-    "timeMonth": 1541,
-    "timeYear": 1012,
+    "uptimeYear": "98.80%",
+    "time": 1011,
+    "timeDay": 932,
+    "timeWeek": 963,
+    "timeMonth": 1543,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2024-07-31": 861,
       "2024-07-30": 618,
@@ -81,15 +81,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 5728,
-    "timeDay": 4284,
-    "timeWeek": 3596,
-    "timeMonth": 3889,
+    "time": 5727,
+    "timeDay": 5526,
+    "timeWeek": 3868,
+    "timeMonth": 3930,
     "timeYear": 5328,
     "dailyMinutesDown": {
       "2024-08-07": 30,
-      "2023-10-13": 207,
-      "2023-10-12": 185
+      "2023-10-13": 207
     }
   },
   {
@@ -104,14 +103,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1310,
-    "timeDay": 704,
-    "timeWeek": 659,
-    "timeMonth": 832,
-    "timeYear": 1161,
+    "timeDay": 1083,
+    "timeWeek": 707,
+    "timeMonth": 843,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2024-08-07": 30,
-      "2023-10-13": 208,
-      "2023-10-12": 185
+      "2023-10-13": 208
     }
   },
   {
@@ -125,15 +123,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1297,
-    "timeDay": 902,
-    "timeWeek": 786,
-    "timeMonth": 1003,
-    "timeYear": 1299,
+    "time": 1299,
+    "timeDay": 1737,
+    "timeWeek": 891,
+    "timeMonth": 1031,
+    "timeYear": 1301,
     "dailyMinutesDown": {
       "2024-08-07": 30,
-      "2023-10-13": 208,
-      "2023-10-12": 185
+      "2023-10-13": 208
     }
   },
   {
@@ -147,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 813,
-    "timeDay": 5836,
-    "timeWeek": 2324,
-    "timeMonth": 1287,
-    "timeYear": 813,
+    "time": 814,
+    "timeDay": 970,
+    "timeWeek": 2351,
+    "timeMonth": 1294,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
@@ -167,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 766,
-    "timeDay": 723,
-    "timeWeek": 607,
-    "timeMonth": 871,
-    "timeYear": 766,
+    "time": 768,
+    "timeDay": 1421,
+    "timeWeek": 711,
+    "timeMonth": 893,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
