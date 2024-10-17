@@ -29,13 +29,13 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 2235,
     "timeDay": 1571,
     "timeWeek": 4250,
-    "timeMonth": 2040,
-    "timeYear": 2011,
+    "timeMonth": 2053,
+    "timeYear": 2015,
     "dailyMinutesDown": {
       "2024-10-15": 15,
       "2024-09-17": 18,
@@ -51,18 +51,19 @@
     "url": "https://ebgv.hannover-stadt.de/intelliform/sign-in?form=true",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "virtuelles-bauamt-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.88%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "98.82%",
-    "time": 1075,
-    "timeDay": 655,
-    "timeWeek": 3118,
-    "timeMonth": 1972,
-    "timeYear": 1075,
+    "time": 1086,
+    "timeDay": 2538,
+    "timeWeek": 3248,
+    "timeMonth": 2026,
+    "timeYear": 1086,
     "dailyMinutesDown": {
+      "2024-10-17": 0,
       "2024-10-11": 12,
       "2024-07-31": 861,
       "2024-07-30": 618,
@@ -87,7 +88,7 @@
     "timeDay": 3680,
     "timeWeek": 4121,
     "timeMonth": 3932,
-    "timeYear": 5109,
+    "timeYear": 5110,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
@@ -107,7 +108,7 @@
     "timeDay": 544,
     "timeWeek": 744,
     "timeMonth": 835,
-    "timeYear": 1172,
+    "timeYear": 1173,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
@@ -127,7 +128,7 @@
     "timeDay": 577,
     "timeWeek": 861,
     "timeMonth": 992,
-    "timeYear": 1304,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
