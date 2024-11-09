@@ -4,18 +4,19 @@
     "url": "https://serviceportal.hannover-stadt.de",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "service-portal-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1305,
+    "time": 1297,
     "timeDay": 1032,
     "timeWeek": 928,
-    "timeMonth": 1251,
+    "timeMonth": 1268,
     "timeYear": 1292,
     "dailyMinutesDown": {
+      "2024-11-09": 0,
       "2024-06-19": 26,
       "2024-03-08": 15
     }
@@ -126,7 +127,7 @@
     "time": 1297,
     "timeDay": 1053,
     "timeWeek": 870,
-    "timeMonth": 887,
+    "timeMonth": 912,
     "timeYear": 1208,
     "dailyMinutesDown": {
       "2024-08-07": 30
@@ -146,7 +147,7 @@
     "time": 798,
     "timeDay": 646,
     "timeWeek": 596,
-    "timeMonth": 1130,
+    "timeMonth": 692,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2024-08-07": 30
