@@ -6,17 +6,16 @@
     "slug": "service-portal-hannover",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1297,
-    "timeDay": 1021,
-    "timeWeek": 938,
-    "timeMonth": 1261,
+    "time": 1286,
+    "timeDay": 1033,
+    "timeWeek": 965,
+    "timeMonth": 1235,
     "timeYear": 1291,
     "dailyMinutesDown": {
-      "2024-11-09": 2,
       "2024-06-19": 26,
       "2024-03-08": 15
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2161,
-    "timeDay": 1243,
-    "timeWeek": 1161,
-    "timeMonth": 1977,
-    "timeYear": 1926,
+    "time": 2160,
+    "timeDay": 973,
+    "timeWeek": 1159,
+    "timeMonth": 1910,
+    "timeYear": 1925,
     "dailyMinutesDown": {
       "2024-10-15": 15,
       "2024-09-17": 18,
@@ -59,9 +58,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "98.92%",
     "time": 1073,
-    "timeDay": 704,
-    "timeWeek": 736,
-    "timeMonth": 1591,
+    "timeDay": 904,
+    "timeWeek": 748,
+    "timeMonth": 1583,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2024-10-11": 12,
@@ -84,11 +83,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 5646,
-    "timeDay": 3496,
-    "timeWeek": 4079,
-    "timeMonth": 4073,
-    "timeYear": 4642,
+    "time": 5633,
+    "timeDay": 5283,
+    "timeWeek": 4260,
+    "timeMonth": 4106,
+    "timeYear": 4627,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
@@ -105,10 +104,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1244,
-    "timeDay": 928,
-    "timeWeek": 1167,
-    "timeMonth": 884,
-    "timeYear": 968,
+    "timeDay": 825,
+    "timeWeek": 1161,
+    "timeMonth": 888,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
@@ -124,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1297,
-    "timeDay": 1053,
-    "timeWeek": 870,
-    "timeMonth": 912,
-    "timeYear": 1208,
+    "time": 1296,
+    "timeDay": 690,
+    "timeWeek": 852,
+    "timeMonth": 879,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
@@ -144,11 +143,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 798,
-    "timeDay": 646,
-    "timeWeek": 596,
-    "timeMonth": 692,
-    "timeYear": 798,
+    "time": 797,
+    "timeDay": 654,
+    "timeWeek": 613,
+    "timeMonth": 659,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
@@ -165,9 +164,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 766,
-    "timeDay": 656,
-    "timeWeek": 630,
-    "timeMonth": 769,
+    "timeDay": 626,
+    "timeWeek": 644,
+    "timeMonth": 766,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2024-08-07": 30
