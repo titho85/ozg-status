@@ -14,7 +14,7 @@
     "timeDay": 972,
     "timeWeek": 1028,
     "timeMonth": 1236,
-    "timeYear": 1293,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2024-06-19": 26,
       "2024-03-08": 15
@@ -25,18 +25,19 @@
     "url": "https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index",
     "icon": "https://serviceportal.hannover-stadt.de/favicon.ico",
     "slug": "formular-service-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2161,
-    "timeDay": 1081,
-    "timeWeek": 1195,
-    "timeMonth": 1930,
+    "time": 2162,
+    "timeDay": 1552,
+    "timeWeek": 1210,
+    "timeMonth": 1933,
     "timeYear": 1925,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-10-15": 15,
       "2024-09-17": 18,
       "2024-09-05": 21,
@@ -87,7 +88,7 @@
     "timeDay": 4868,
     "timeWeek": 4680,
     "timeMonth": 4226,
-    "timeYear": 4632,
+    "timeYear": 4636,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
@@ -107,7 +108,7 @@
     "timeDay": 1029,
     "timeWeek": 1278,
     "timeMonth": 917,
-    "timeYear": 969,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2024-08-07": 30
     }
