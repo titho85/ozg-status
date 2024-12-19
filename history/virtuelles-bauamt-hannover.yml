@@ -1,7 +1,7 @@
 url: https://ebgv.hannover-stadt.de/intelliform/sign-in?form=true
-status: up
-code: 200
-responseTime: 1103
-lastUpdated: 2024-12-18T23:18:56.939Z
+status: down
+code: 502
+responseTime: 1939
+lastUpdated: 2024-12-19T13:18:10.990Z
 startTime: 2024-01-30T10:42:28.431Z
 generator: Upptime <https://github.com/upptime/upptime>
