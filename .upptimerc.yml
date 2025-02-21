@@ -13,7 +13,7 @@ sites:
     url: https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
   - name: Virtuelles Bauamt Hannover
-    url: https://ebgv.hannover-stadt.de/intelliform/sign-in?form=true
+    url: https://ebgv.hannover-stadt.de/intelliform/sign-in?rhsso-muk-ebgv-prod=show&rhsso-bund-id-prod=show&form=show&target=eyJjIjoiaUNMeHFnPT0iLCJ0IjoiT2tyYiIsImsiOiIvaW50ZWxsaWZvcm0vdWkvY2FzZXMvLS9oYW5ub3Zlci12YmEvaW5kZXg7TGFuZGVzaGF1cHRzdGFkdCBIYW5ub3ZlciAtIFVudGVyZSBCYXVhdWZzaWNodHNiZWjDtnJkZSBPbmxpbmU7dmJhLWxvZ2luIn0&guest=true
     icon: https://serviceportal.hannover-stadt.de/favicon.ico
   - name: Terminbuchung Bürgerämter Hannover
     url: https://termin.hannover-stadt.de/buergeramt
