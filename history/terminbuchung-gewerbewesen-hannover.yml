@@ -1,7 +1,7 @@
 url: https://termin.hannover-stadt.de/gewerbe
-status: up
-code: 200
-responseTime: 713
-lastUpdated: 2025-03-10T23:19:10.057Z
+status: down
+code: 403
+responseTime: 204
+lastUpdated: 2025-03-11T21:36:03.792Z
 startTime: 2024-01-29T12:45:44.956Z
 generator: Upptime <https://github.com/upptime/upptime>
