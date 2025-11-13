@@ -6,35 +6,35 @@ assignees:
 
 sites:
   - name: Service-Portal Hannover
-    url: https://serviceportal.hannover-stadt.de
-    icon: https://serviceportal.hannover-stadt.de/favicon.ico
+    url: https://hannover.gov.de
+    icon: https://hannover.gov.de/favicon.ico
     __dangerous__body_down_if_text_missing: "Service-Portal der Landeshauptstadt Hannover"
   - name: FormularService Hannover
     url: https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index
-    icon: https://serviceportal.hannover-stadt.de/favicon.ico
+    icon: https://hannover.gov.de/favicon.ico
   - name: Virtuelles Bauamt Hannover
     url: https://ebgv.hannover-stadt.de/intelliform/sign-in?rhsso-muk-ebgv-prod=show&rhsso-bund-id-prod=show&form=show&target=eyJjIjoiaUNMeHFnPT0iLCJ0IjoiT2tyYiIsImsiOiIvaW50ZWxsaWZvcm0vdWkvY2FzZXMvLS9oYW5ub3Zlci12YmEvaW5kZXg7TGFuZGVzaGF1cHRzdGFkdCBIYW5ub3ZlciAtIFVudGVyZSBCYXVhdWZzaWNodHNiZWjDtnJkZSBPbmxpbmU7dmJhLWxvZ2luIn0&guest=true
-    icon: https://serviceportal.hannover-stadt.de/favicon.ico
+    icon: https://hannover.gov.de/favicon.ico
   - name: Terminbuchung Bürgerämter Hannover
     url: https://termin.hannover-stadt.de/buergeramt
-    icon: https://serviceportal.hannover-stadt.de/favicon.ico
+    icon: https://hannover.gov.de/favicon.ico
   - name: Terminbuchung KFZ-Zulassung Hannover
     url: https://termin.hannover-stadt.de/kfz
-    icon: https://serviceportal.hannover-stadt.de/favicon.ico
+    icon: https://hannover.gov.de/favicon.ico
   - name: Terminbuchung Fahrerlaubnisbehörde Hannover
     url: https://termin.hannover-stadt.de/fahrerlaubnis
-    icon: https://serviceportal.hannover-stadt.de/favicon.ico
+    icon: https://hannover.gov.de/favicon.ico
   - name: Terminbuchung Standesamt Hannover
     url: https://termin.hannover-stadt.de/standesamt
-    icon: https://serviceportal.hannover-stadt.de/favicon.ico
+    icon: https://hannover.gov.de/favicon.ico
   - name: Terminbuchung Gewerbewesen Hannover
     url: https://termin.hannover-stadt.de/gewerbe
-    icon: https://serviceportal.hannover-stadt.de/favicon.ico
+    icon: https://hannover.gov.de/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: serviceportal.hannover-stadt.de
+  #cname: hannover.gov.de
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/titho85/ozg-status/master/static/img/logo.png
   name: Status des Service-Portals der Landeshauptstadt Hannover
@@ -42,12 +42,12 @@ status-website:
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: https://serviceportal.hannover-stadt.de/status
+      href: https://hannover.gov.de/status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Service-Portal
-      href: https://serviceportal.hannover-stadt.de
-  favicon: https://serviceportal.hannover-stadt.de/favicon.ico
+      href: https://hannover.gov.de
+  favicon: https://hannover.gov.de/favicon.ico
   metaTags:
     - name: "robots"
       content: "noindex"
