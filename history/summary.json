@@ -91,9 +91,9 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "97.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -103,6 +103,7 @@
     "timeMonth": 4569,
     "timeYear": 3834,
     "dailyMinutesDown": {
+      "2025-12-21": 0,
       "2025-10-08": 30,
       "2025-05-23": 19,
       "2025-03-19": 45
@@ -170,9 +171,9 @@
     "slug": "terminbuchung-standesamt-hannover",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 690,
     "timeDay": 590,
@@ -180,7 +181,6 @@
     "timeMonth": 923,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-12-21": 3,
       "2025-10-08": 30,
       "2025-03-19": 45
     }
