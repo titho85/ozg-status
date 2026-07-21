@@ -1,7 +1,7 @@
 url: https://hannover.gov.de
-status: down
-code: 504
-responseTime: 16353
-lastUpdated: 2026-07-21T04:27:46.601Z
+status: up
+code: 200
+responseTime: 1565
+lastUpdated: 2026-07-21T07:12:28.484Z
 startTime: 2023-05-23T21:40:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
