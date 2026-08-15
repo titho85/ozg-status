@@ -63,22 +63,23 @@
     "url": "https://ebgv.hannover-stadt.de/intelliform/sign-in?rhsso-muk-ebgv-prod=show&rhsso-bund-id-prod=show&form=show&target=eyJjIjoiaUNMeHFnPT0iLCJ0IjoiT2tyYiIsImsiOiIvaW50ZWxsaWZvcm0vdWkvY2FzZXMvLS9oYW5ub3Zlci12YmEvaW5kZXg7TGFuZGVzaGF1cHRzdGFkdCBIYW5ub3ZlciAtIFVudGVyZSBCYXVhdWZzaWNodHNiZWjDtnJkZSBPbmxpbmU7dmJhLWxvZ2luIn0&guest=true",
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "virtuelles-bauamt-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 957,
-    "timeDay": 813,
-    "timeWeek": 860,
-    "timeMonth": 912,
-    "timeYear": 973,
+    "timeDay": 1352,
+    "timeWeek": 989,
+    "timeMonth": 942,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2025-09-08": 102,
       "2025-10-08": 39,
       "2025-10-09": 113,
-      "2026-07-08": 99
+      "2026-07-08": 99,
+      "2026-08-15": 1
     }
   },
   {
