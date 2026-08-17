@@ -87,21 +87,21 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "down",
+    "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 4723,
-    "timeDay": 6305,
-    "timeWeek": 5849,
-    "timeMonth": 6441,
-    "timeYear": 5100,
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 4730,
+    "timeDay": 6488,
+    "timeWeek": 5952,
+    "timeMonth": 6448,
+    "timeYear": 5105,
     "dailyMinutesDown": {
       "2025-10-08": 30,
       "2026-01-26": 43,
-      "2026-08-17": 2
+      "2026-08-17": 30
     }
   },
   {
