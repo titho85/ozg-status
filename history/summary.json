@@ -4,17 +4,17 @@
     "url": "https://hannover.gov.de",
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "service-portal-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 1801,
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.80%",
+    "time": 1802,
     "timeDay": 1636,
     "timeWeek": 1882,
     "timeMonth": 2589,
-    "timeYear": 1874,
+    "timeYear": 1876,
     "dailyMinutesDown": {
       "2025-10-28": 29,
       "2025-12-17": 43,
@@ -25,7 +25,8 @@
       "2026-08-23": 54,
       "2026-08-25": 42,
       "2026-08-31": 51,
-      "2026-08-30": 90
+      "2026-08-30": 90,
+      "2026-10-04": 18
     }
   },
   {
@@ -33,17 +34,17 @@
     "url": "https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index",
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "formular-service-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.43%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "98.69%",
     "uptimeYear": "99.68%",
     "time": 1491,
     "timeDay": 1217,
     "timeWeek": 1143,
     "timeMonth": 2566,
-    "timeYear": 1544,
+    "timeYear": 1546,
     "dailyMinutesDown": {
       "2025-10-09": 117,
       "2025-10-21": 18,
@@ -62,7 +63,8 @@
       "2026-08-31": 51,
       "2026-08-30": 85,
       "2026-09-30": 510,
-      "2026-09-29": 51
+      "2026-09-29": 51,
+      "2026-10-04": 13
     }
   },
   {
@@ -70,11 +72,11 @@
     "url": "https://ebgv.hannover-stadt.de/intelliform/sign-in?rhsso-muk-ebgv-prod=show&rhsso-bund-id-prod=show&form=show&target=eyJjIjoiaUNMeHFnPT0iLCJ0IjoiT2tyYiIsImsiOiIvaW50ZWxsaWZvcm0vdWkvY2FzZXMvLS9oYW5ub3Zlci12YmEvaW5kZXg7TGFuZGVzaGF1cHRzdGFkdCBIYW5ub3ZlciAtIFVudGVyZSBCYXVhdWZzaWNodHNiZWjDtnJkZSBPbmxpbmU7dmJhLWxvZ2luIn0&guest=true",
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "virtuelles-bauamt-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.90%",
     "time": 1018,
     "timeDay": 788,
@@ -89,7 +91,8 @@
       "2026-08-23": 44,
       "2026-08-25": 32,
       "2026-08-31": 51,
-      "2026-08-30": 80
+      "2026-08-30": 80,
+      "2026-10-04": 8
     }
   },
   {
@@ -97,17 +100,17 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "98.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.87%",
-    "time": 5124,
+    "time": 5126,
     "timeDay": 6744,
     "timeWeek": 7107,
     "timeMonth": 7730,
-    "timeYear": 5679,
+    "timeYear": 5688,
     "dailyMinutesDown": {
       "2025-10-08": 30,
       "2026-01-26": 43,
@@ -115,7 +118,8 @@
       "2026-08-23": 38,
       "2026-08-31": 51,
       "2026-08-30": 75,
-      "2026-09-06": 432
+      "2026-09-06": 432,
+      "2026-10-04": 4
     }
   },
   {
@@ -133,7 +137,7 @@
     "timeDay": 4091,
     "timeWeek": 3488,
     "timeMonth": 5811,
-    "timeYear": 2369,
+    "timeYear": 2374,
     "dailyMinutesDown": {
       "2025-10-08": 30,
       "2026-01-26": 41,
@@ -158,7 +162,7 @@
     "timeDay": 3025,
     "timeWeek": 4056,
     "timeMonth": 5539,
-    "timeYear": 2232,
+    "timeYear": 2236,
     "dailyMinutesDown": {
       "2025-10-08": 30,
       "2026-01-26": 40,
@@ -184,7 +188,7 @@
     "timeDay": 3209,
     "timeWeek": 3691,
     "timeMonth": 6519,
-    "timeYear": 2074,
+    "timeYear": 2079,
     "dailyMinutesDown": {
       "2025-10-08": 30,
       "2026-01-26": 38,
@@ -210,7 +214,7 @@
     "timeDay": 3368,
     "timeWeek": 3214,
     "timeMonth": 5009,
-    "timeYear": 2051,
+    "timeYear": 2056,
     "dailyMinutesDown": {
       "2025-10-08": 30,
       "2026-01-26": 37,
