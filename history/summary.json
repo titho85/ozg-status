@@ -14,7 +14,7 @@
     "timeDay": 2201,
     "timeWeek": 1653,
     "timeMonth": 1854,
-    "timeYear": 1853,
+    "timeYear": 1856,
     "dailyMinutesDown": {
       "2025-10-28": 29,
       "2025-12-17": 43,
@@ -45,7 +45,7 @@
     "timeDay": 1126,
     "timeWeek": 1138,
     "timeMonth": 1588,
-    "timeYear": 1537,
+    "timeYear": 1538,
     "dailyMinutesDown": {
       "2025-10-21": 18,
       "2025-10-29": 6,
@@ -74,7 +74,7 @@
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "virtuelles-bauamt-hannover",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
@@ -100,17 +100,17 @@
     "url": "https://termin.hannover-stadt.de/buergeramt",
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "terminbuchung-buergeraemter-hannover",
-    "status": "up",
+    "status": "down",
     "uptime": "98.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.85%",
-    "time": 5189,
+    "time": 5194,
     "timeDay": 6068,
     "timeWeek": 6675,
     "timeMonth": 7729,
-    "timeYear": 5772,
+    "timeYear": 5780,
     "dailyMinutesDown": {
       "2026-01-26": 43,
       "2026-08-17": 30,
@@ -119,7 +119,8 @@
       "2026-08-30": 75,
       "2026-09-06": 432,
       "2026-10-05": 105,
-      "2026-10-04": 33
+      "2026-10-04": 33,
+      "2026-10-12": 3
     }
   },
   {
@@ -137,7 +138,7 @@
     "timeDay": 3347,
     "timeWeek": 3722,
     "timeMonth": 5682,
-    "timeYear": 2448,
+    "timeYear": 2453,
     "dailyMinutesDown": {
       "2026-01-26": 41,
       "2026-08-23": 33,
@@ -161,7 +162,7 @@
     "timeDay": 3144,
     "timeWeek": 3433,
     "timeMonth": 5454,
-    "timeYear": 2302,
+    "timeYear": 2306,
     "dailyMinutesDown": {
       "2026-01-26": 40,
       "2026-01-28": 39,
@@ -186,7 +187,7 @@
     "timeDay": 2946,
     "timeWeek": 3015,
     "timeMonth": 4517,
-    "timeYear": 2137,
+    "timeYear": 2141,
     "dailyMinutesDown": {
       "2026-01-26": 38,
       "2026-01-28": 42,
@@ -211,7 +212,7 @@
     "timeDay": 3798,
     "timeWeek": 3087,
     "timeMonth": 4821,
-    "timeYear": 2116,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2026-01-26": 37,
       "2026-01-28": 39,
