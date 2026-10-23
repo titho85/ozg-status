@@ -1,7 +1,7 @@
 url: https://termin.hannover-stadt.de/standesamt
-status: down
-code: 503
-responseTime: 1846
-lastUpdated: 2026-10-23T01:20:21.720Z
+status: up
+code: 200
+responseTime: 4338
+lastUpdated: 2026-10-23T10:14:24.574Z
 startTime: 2024-01-29T12:45:43.783Z
 generator: Upptime <https://github.com/upptime/upptime>
