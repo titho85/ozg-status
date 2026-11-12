@@ -38,17 +38,17 @@
     "url": "https://forms.hannover-stadt.de/intelliform/forms/lhh_ozg/index",
     "icon": "https://hannover.gov.de/favicon.ico",
     "slug": "formular-service-hannover",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "67.73%",
-    "uptimeWeek": "90.86%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "99.47%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "54.22%",
+    "uptimeWeek": "85.61%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "99.37%",
     "time": 1516,
-    "timeDay": 4818,
-    "timeWeek": 2341,
-    "timeMonth": 1749,
-    "timeYear": 1576,
+    "timeDay": 1140,
+    "timeWeek": 2254,
+    "timeMonth": 1735,
+    "timeYear": 1575,
     "dailyMinutesDown": {
       "2025-11-18": 18,
       "2025-12-16": 18,
@@ -71,7 +71,7 @@
       "2026-11-02": 125,
       "2026-11-09": 456,
       "2026-11-11": 464,
-      "2026-11-12": 1
+      "2026-11-12": 530
     }
   },
   {
